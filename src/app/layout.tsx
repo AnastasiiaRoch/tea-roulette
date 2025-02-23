@@ -3,8 +3,8 @@ import { Poppins } from 'next/font/google';
 
 import { Slide, ToastContainer } from 'react-toastify';
 
-import Footer from '@/lib/layout/Footer';
-import Header from '@/lib/layout/Header';
+import Footer from '@/lib/organisms/Footer';
+import Header from '@/lib/organisms/Header';
 
 import './globals.css';
 
